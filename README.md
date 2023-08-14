@@ -1,5 +1,7 @@
 # Sorting-Visualizer
 
+This is a project that I made to show my knowledge in python and sorting algorithms 
+
 Examples:
 
 # -**Bubble Sort**
